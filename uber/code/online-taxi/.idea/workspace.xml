@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1ed8571-da63-4a57-a658-a6e93f5eb278" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api-passenger/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-passenger/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-passenger/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-passenger/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-passenger/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-passenger/src/main/java/com/yulin/apipassenger/ApiPassengerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-passenger/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api-passenger/src/test/java/com/yulin/apipassenger/ApiPassengerApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../note/步骤.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../note/步骤.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +126,7 @@
       <workItem from="1602575403198" duration="599000" />
       <workItem from="1602666988146" duration="778000" />
       <workItem from="1602682116459" duration="620000" />
-      <workItem from="1603095885122" duration="3711000" />
+      <workItem from="1603095885122" duration="6999000" />
     </task>
     <servers />
   </component>
@@ -195,9 +189,9 @@
       <screen x="1920" y="0" width="1440" height="900" />
     </state>
     <state x="2014" y="144" key="new project wizard/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1602279594834" />
-    <state x="2296" y="103" width="670" height="676" key="search.everywhere.popup" timestamp="1603098429781">
+    <state x="2296" y="103" width="672" height="676" key="search.everywhere.popup" timestamp="1603114043092">
       <screen x="1920" y="0" width="1440" height="900" />
     </state>
-    <state x="2296" y="103" width="670" height="676" key="search.everywhere.popup/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1603098429781" />
+    <state x="2296" y="103" width="672" height="676" key="search.everywhere.popup/1920.0.1440.900/0.0.1920.1080@1920.0.1440.900" timestamp="1603114043092" />
   </component>
 </project>
